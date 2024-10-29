@@ -1,0 +1,4143 @@
+{
+    "result": {
+        "integrity": 12,
+        "fluency": 3,
+        "resource_version": "4.4.4",
+        "sentences": [
+            {
+                "beginIndex": 0,
+                "sentence": "Amber and Sam like to bake.",
+                "start": 665,
+                "endIndex": 25,
+                "end": 5477,
+                "overall": 17,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 665,
+                        "prominence": 0,
+                        "end": 677,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 4,
+                                "beginIndex": 0
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 1619,
+                        "prominence": 0,
+                        "end": 1636,
+                        "overall": 3,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 8,
+                                "beginIndex": 6
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 3,
+                        "start": 4204,
+                        "prominence": 1,
+                        "end": 4236,
+                        "overall": 47,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 12,
+                                "beginIndex": 10
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "like",
+                        "readType": 3,
+                        "start": 4579,
+                        "prominence": 0,
+                        "end": 4590,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "like",
+                                "endIndex": 17,
+                                "beginIndex": 14
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "to",
+                        "readType": 3,
+                        "start": 5149,
+                        "prominence": 0,
+                        "end": 5174,
+                        "overall": 50,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "to",
+                                "endIndex": 20,
+                                "beginIndex": 19
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "bake.",
+                        "readType": 3,
+                        "start": 5455,
+                        "prominence": 0,
+                        "end": 5477,
+                        "overall": 1,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "bake",
+                                "endIndex": 25,
+                                "beginIndex": 22
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 26,
+                                "beginIndex": 26
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 28,
+                "sentence": "They plan to bake a cake for Mom.",
+                "start": 6725,
+                "endIndex": 59,
+                "end": 11109,
+                "overall": 23,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 6725,
+                        "prominence": 0,
+                        "end": 6734,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 31,
+                                "beginIndex": 28
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "plan",
+                        "readType": 3,
+                        "start": 7153,
+                        "prominence": 0,
+                        "end": 7173,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "plan",
+                                "endIndex": 36,
+                                "beginIndex": 33
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "to",
+                        "readType": 3,
+                        "start": 7898,
+                        "prominence": 0,
+                        "end": 7905,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "to",
+                                "endIndex": 39,
+                                "beginIndex": 38
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "bake",
+                        "readType": 3,
+                        "start": 8888,
+                        "prominence": 0,
+                        "end": 8912,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "bake",
+                                "endIndex": 44,
+                                "beginIndex": 41
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 0,
+                        "start": 8912,
+                        "prominence": 0,
+                        "end": 8960,
+                        "overall": 71,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 46,
+                                "beginIndex": 46
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "long",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 87,
+                            "overall": 87
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 100,
+                            "overall": 100
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mom.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 78,
+                            "overall": 78
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 9500,
+                        "prominence": 0,
+                        "end": 9509,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 51,
+                                "beginIndex": 48
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "for",
+                        "readType": 3,
+                        "start": 9700,
+                        "prominence": 0,
+                        "end": 9725,
+                        "overall": 57,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "for",
+                                "endIndex": 55,
+                                "beginIndex": 53
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Mom.",
+                        "readType": 0,
+                        "start": 11074,
+                        "prominence": 1,
+                        "end": 11109,
+                        "overall": 59,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Mom",
+                                "endIndex": 59,
+                                "beginIndex": 57
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 60,
+                                "beginIndex": 60
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 62,
+                "sentence": "First,",
+                "start": 11967,
+                "endIndex": 66,
+                "end": 12015,
+                "overall": 67,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "First,",
+                        "readType": 3,
+                        "start": 11967,
+                        "prominence": 0,
+                        "end": 12015,
+                        "overall": 67,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "First",
+                                "endIndex": 66,
+                                "beginIndex": 62
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 67,
+                                "beginIndex": 67
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 69,
+                "sentence": "they collect what they need for the cake.",
+                "start": 0,
+                "endIndex": 108,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "they",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "they",
+                                "endIndex": 72,
+                                "beginIndex": 69
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "collect",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "collect",
+                                "endIndex": 80,
+                                "beginIndex": 74
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "what",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "what",
+                                "endIndex": 85,
+                                "beginIndex": 82
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "they",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "they",
+                                "endIndex": 90,
+                                "beginIndex": 87
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "need",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "need",
+                                "endIndex": 95,
+                                "beginIndex": 92
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "for",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "for",
+                                "endIndex": 99,
+                                "beginIndex": 97
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 103,
+                                "beginIndex": 101
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 108,
+                                "beginIndex": 105
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 109,
+                                "beginIndex": 109
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 111,
+                "sentence": "They have cake mix,",
+                "start": 0,
+                "endIndex": 128,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 114,
+                                "beginIndex": 111
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "have",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "have",
+                                "endIndex": 119,
+                                "beginIndex": 116
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 124,
+                                "beginIndex": 121
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mix,",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "mix",
+                                "endIndex": 128,
+                                "beginIndex": 126
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 129,
+                                "beginIndex": 129
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 131,
+                "sentence": "nuts,",
+                "start": 0,
+                "endIndex": 134,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "nuts,",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "nuts",
+                                "endIndex": 134,
+                                "beginIndex": 131
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 135,
+                                "beginIndex": 135
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 137,
+                "sentence": "sugar and butter.",
+                "start": 0,
+                "endIndex": 152,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "sugar",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "sugar",
+                                "endIndex": 141,
+                                "beginIndex": 137
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 145,
+                                "beginIndex": 143
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "butter.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "butter",
+                                "endIndex": 152,
+                                "beginIndex": 147
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 153,
+                                "beginIndex": 153
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 161,
+                "sentence": "\t\t\t\t\tNext Sam put a pan on the stove.",
+                "start": 0,
+                "endIndex": 191,
+                "end": 0,
+                "overall": 19,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "\t\t\t\t\tNext",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\t\t\t\t\t",
+                                "endIndex": 160,
+                                "beginIndex": 156
+                            },
+                            {
+                                "charType": 0,
+                                "part": "Next",
+                                "endIndex": 164,
+                                "beginIndex": 161
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 0,
+                        "start": 4204,
+                        "prominence": 0,
+                        "end": 4236,
+                        "overall": 52,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 168,
+                                "beginIndex": 166
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "put",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "put",
+                                "endIndex": 172,
+                                "beginIndex": 170
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 174,
+                                "beginIndex": 174
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "pan",
+                                "endIndex": 178,
+                                "beginIndex": 176
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 0,
+                        "start": 5086,
+                        "prominence": 0,
+                        "end": 5119,
+                        "overall": 99,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "on",
+                                "endIndex": 181,
+                                "beginIndex": 180
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "want",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 66,
+                            "overall": 66
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 185,
+                                "beginIndex": 183
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "stove.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "stove",
+                                "endIndex": 191,
+                                "beginIndex": 187
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 192,
+                                "beginIndex": 192
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 195,
+                "sentence": "\"We cannot bake on the stove,\" Amber said \"we need an oven to bake.\" They get a pan and a brush.",
+                "start": 0,
+                "endIndex": 288,
+                "end": 7232,
+                "overall": 10,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "\"We",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            },
+                            {
+                                "charType": 0,
+                                "part": "We",
+                                "endIndex": 196,
+                                "beginIndex": 195
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cannot",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cannot",
+                                "endIndex": 203,
+                                "beginIndex": 198
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "bake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "bake",
+                                "endIndex": 208,
+                                "beginIndex": 205
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "on",
+                                "endIndex": 211,
+                                "beginIndex": 210
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 215,
+                                "beginIndex": 213
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "stove,\"",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "stove",
+                                "endIndex": 221,
+                                "beginIndex": 217
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 229,
+                                "beginIndex": 225
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "said",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "said",
+                                "endIndex": 234,
+                                "beginIndex": 231
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "\"we",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            },
+                            {
+                                "charType": 0,
+                                "part": "we",
+                                "endIndex": 238,
+                                "beginIndex": 237
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "need",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "need",
+                                "endIndex": 243,
+                                "beginIndex": 240
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "an",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "an",
+                                "endIndex": 246,
+                                "beginIndex": 245
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "oven",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "oven",
+                                "endIndex": 251,
+                                "beginIndex": 248
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "to",
+                        "readType": 0,
+                        "start": 5148,
+                        "prominence": 0,
+                        "end": 5174,
+                        "overall": 55,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "to",
+                                "endIndex": 254,
+                                "beginIndex": 253
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "bake.\"",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "bake",
+                                "endIndex": 259,
+                                "beginIndex": 256
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 266,
+                                "beginIndex": 263
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "get",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "get",
+                                "endIndex": 270,
+                                "beginIndex": 268
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 0,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 272,
+                                "beginIndex": 272
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brush.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 66,
+                            "overall": 66
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "sugar.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 48,
+                            "overall": 48
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 95,
+                            "overall": 95
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 97,
+                            "overall": 97
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 80,
+                            "overall": 80
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "pan",
+                                "endIndex": 276,
+                                "beginIndex": 274
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 0,
+                        "start": 6532,
+                        "prominence": 0,
+                        "end": 6549,
+                        "overall": 97,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 280,
+                                "beginIndex": 278
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "burn",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 57,
+                            "overall": 57
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 96,
+                            "overall": 96
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 89,
+                            "overall": 89
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 282,
+                                "beginIndex": 282
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brush.",
+                        "readType": 0,
+                        "start": 7152,
+                        "prominence": 0,
+                        "end": 7232,
+                        "overall": 59,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "brush",
+                                "endIndex": 288,
+                                "beginIndex": 284
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 289,
+                                "beginIndex": 289
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 291,
+                "sentence": "They brush the pan with butter.",
+                "start": 0,
+                "endIndex": 320,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 294,
+                                "beginIndex": 291
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brush",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "brush",
+                                "endIndex": 300,
+                                "beginIndex": 296
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 304,
+                                "beginIndex": 302
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "pan",
+                                "endIndex": 308,
+                                "beginIndex": 306
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "with",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "with",
+                                "endIndex": 313,
+                                "beginIndex": 310
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "butter.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "butter",
+                                "endIndex": 320,
+                                "beginIndex": 315
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 321,
+                                "beginIndex": 321
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 323,
+                "sentence": "Sam chops the nuts.",
+                "start": 0,
+                "endIndex": 340,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 325,
+                                "beginIndex": 323
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "chops",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "chops",
+                                "endIndex": 331,
+                                "beginIndex": 327
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 335,
+                                "beginIndex": 333
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "nuts.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "nuts",
+                                "endIndex": 340,
+                                "beginIndex": 337
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 341,
+                                "beginIndex": 341
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 343,
+                "sentence": "Amber mixes it with the cake mix and sugar.",
+                "start": 0,
+                "endIndex": 384,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 347,
+                                "beginIndex": 343
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mixes",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "mixes",
+                                "endIndex": 353,
+                                "beginIndex": 349
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "it",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "it",
+                                "endIndex": 356,
+                                "beginIndex": 355
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "with",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "with",
+                                "endIndex": 361,
+                                "beginIndex": 358
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 365,
+                                "beginIndex": 363
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 370,
+                                "beginIndex": 367
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mix",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "mix",
+                                "endIndex": 374,
+                                "beginIndex": 372
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 378,
+                                "beginIndex": 376
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "sugar.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "sugar",
+                                "endIndex": 384,
+                                "beginIndex": 380
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 385,
+                                "beginIndex": 385
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 387,
+                "sentence": "They hum a tune as they work.",
+                "start": 0,
+                "endIndex": 414,
+                "end": 7399,
+                "overall": 23,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 390,
+                                "beginIndex": 387
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "hum",
+                        "readType": 0,
+                        "start": 7232,
+                        "prominence": 0,
+                        "end": 7255,
+                        "overall": 76,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "hum",
+                                "endIndex": 394,
+                                "beginIndex": 392
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 81,
+                            "overall": 81
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mom",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 77,
+                            "overall": 77
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 396,
+                                "beginIndex": 396
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "tune",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "tune",
+                                "endIndex": 401,
+                                "beginIndex": 398
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "as",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "as",
+                                "endIndex": 404,
+                                "beginIndex": 403
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "they",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "they",
+                                "endIndex": 409,
+                                "beginIndex": 406
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "work.",
+                        "readType": 0,
+                        "start": 7353,
+                        "prominence": 0,
+                        "end": 7399,
+                        "overall": 85,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "work",
+                                "endIndex": 414,
+                                "beginIndex": 411
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 415,
+                                "beginIndex": 415
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 422,
+                "sentence": "\t\t\t\t\tNow,",
+                "start": 0,
+                "endIndex": 424,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "sugar.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 51,
+                            "overall": 51
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mom",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 73,
+                            "overall": 73
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "\t\t\t\t\tNow,",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\t\t\t\t\t",
+                                "endIndex": 421,
+                                "beginIndex": 417
+                            },
+                            {
+                                "charType": 0,
+                                "part": "Now",
+                                "endIndex": 424,
+                                "beginIndex": 422
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 425,
+                                "beginIndex": 425
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 427,
+                "sentence": "the oven is hot.",
+                "start": 0,
+                "endIndex": 441,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 429,
+                                "beginIndex": 427
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "oven",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "oven",
+                                "endIndex": 434,
+                                "beginIndex": 431
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "is",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "is",
+                                "endIndex": 437,
+                                "beginIndex": 436
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "hot.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "hot",
+                                "endIndex": 441,
+                                "beginIndex": 439
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 442,
+                                "beginIndex": 442
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 444,
+                "sentence": "Amber and Sam want to be safe.",
+                "start": 0,
+                "endIndex": 472,
+                "end": 0,
+                "overall": 12,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 448,
+                                "beginIndex": 444
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 0,
+                        "start": 7897,
+                        "prominence": 0,
+                        "end": 7922,
+                        "overall": 87,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 452,
+                                "beginIndex": 450
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mom.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 86,
+                            "overall": 86
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "mom",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 82,
+                            "overall": 82
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 456,
+                                "beginIndex": 454
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "want",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "want",
+                                "endIndex": 461,
+                                "beginIndex": 458
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "to",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "to",
+                                "endIndex": 464,
+                                "beginIndex": 463
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "be",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "be",
+                                "endIndex": 467,
+                                "beginIndex": 466
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "safe.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "safe",
+                                "endIndex": 472,
+                                "beginIndex": 469
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 473,
+                                "beginIndex": 473
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 475,
+                "sentence": "They put on gloves and place the pan in the oven.",
+                "start": 0,
+                "endIndex": 522,
+                "end": 0,
+                "overall": 7,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 478,
+                                "beginIndex": 475
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "put",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "put",
+                                "endIndex": 482,
+                                "beginIndex": 480
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 0,
+                        "start": 8262,
+                        "prominence": 0,
+                        "end": 8290,
+                        "overall": 73,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "on",
+                                "endIndex": 485,
+                                "beginIndex": 484
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "gloves",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "gloves",
+                                "endIndex": 492,
+                                "beginIndex": 487
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 496,
+                                "beginIndex": 494
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "place",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "place",
+                                "endIndex": 502,
+                                "beginIndex": 498
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 506,
+                                "beginIndex": 504
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "pan",
+                                "endIndex": 510,
+                                "beginIndex": 508
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "in",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "in",
+                                "endIndex": 513,
+                                "beginIndex": 512
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 517,
+                                "beginIndex": 515
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "oven.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "oven",
+                                "endIndex": 522,
+                                "beginIndex": 519
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 523,
+                                "beginIndex": 523
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 525,
+                "sentence": "They do not want to burn the cake.",
+                "start": 0,
+                "endIndex": 557,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 528,
+                                "beginIndex": 525
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "do",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "do",
+                                "endIndex": 531,
+                                "beginIndex": 530
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "not",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "not",
+                                "endIndex": 535,
+                                "beginIndex": 533
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "want",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "want",
+                                "endIndex": 540,
+                                "beginIndex": 537
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "to",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "to",
+                                "endIndex": 543,
+                                "beginIndex": 542
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "burn",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "burn",
+                                "endIndex": 548,
+                                "beginIndex": 545
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 552,
+                                "beginIndex": 550
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 557,
+                                "beginIndex": 554
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 558,
+                                "beginIndex": 558
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 561,
+                "sentence": "\"Let's watch the time,\" says Sam.",
+                "start": 0,
+                "endIndex": 591,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "\"Let's",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            },
+                            {
+                                "charType": 0,
+                                "part": "Let's",
+                                "endIndex": 565,
+                                "beginIndex": 561
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "watch",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "watch",
+                                "endIndex": 571,
+                                "beginIndex": 567
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 575,
+                                "beginIndex": 573
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "time,\"",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "time",
+                                "endIndex": 580,
+                                "beginIndex": 577
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",\"",
+                                "endIndex": -1,
+                                "beginIndex": -1
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "says",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "says",
+                                "endIndex": 587,
+                                "beginIndex": 584
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 591,
+                                "beginIndex": 589
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 592,
+                                "beginIndex": 592
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 594,
+                "sentence": "The cake will bake for a long time.",
+                "start": 0,
+                "endIndex": 627,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "The",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "The",
+                                "endIndex": 596,
+                                "beginIndex": 594
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 601,
+                                "beginIndex": 598
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "will",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "will",
+                                "endIndex": 606,
+                                "beginIndex": 603
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "bake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "bake",
+                                "endIndex": 611,
+                                "beginIndex": 608
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "for",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "for",
+                                "endIndex": 615,
+                                "beginIndex": 613
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 617,
+                                "beginIndex": 617
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "long",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "long",
+                                "endIndex": 622,
+                                "beginIndex": 619
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "time.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "time",
+                                "endIndex": 627,
+                                "beginIndex": 624
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 628,
+                                "beginIndex": 628
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 635,
+                "sentence": "\t\t\t\t\tAt last,",
+                "start": 0,
+                "endIndex": 641,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "\t\t\t\t\tAt",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\t\t\t\t\t",
+                                "endIndex": 634,
+                                "beginIndex": 630
+                            },
+                            {
+                                "charType": 0,
+                                "part": "At",
+                                "endIndex": 636,
+                                "beginIndex": 635
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "last,",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "last",
+                                "endIndex": 641,
+                                "beginIndex": 638
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 642,
+                                "beginIndex": 642
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 644,
+                "sentence": "the cake is done!",
+                "start": 0,
+                "endIndex": 659,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 646,
+                                "beginIndex": 644
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 651,
+                                "beginIndex": 648
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "is",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "is",
+                                "endIndex": 654,
+                                "beginIndex": 653
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "done!",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "done",
+                                "endIndex": 659,
+                                "beginIndex": 656
+                            },
+                            {
+                                "charType": 1,
+                                "part": "!",
+                                "endIndex": 660,
+                                "beginIndex": 660
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 662,
+                "sentence": "It is big,",
+                "start": 0,
+                "endIndex": 670,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "It",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "It",
+                                "endIndex": 663,
+                                "beginIndex": 662
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "is",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "is",
+                                "endIndex": 666,
+                                "beginIndex": 665
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "big,",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "big",
+                                "endIndex": 670,
+                                "beginIndex": 668
+                            },
+                            {
+                                "charType": 1,
+                                "part": ",",
+                                "endIndex": 671,
+                                "beginIndex": 671
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 673,
+                "sentence": "brown and smells nice.",
+                "start": 8533,
+                "endIndex": 693,
+                "end": 8916,
+                "overall": 31,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 0,
+                        "start": 8533,
+                        "prominence": 0,
+                        "end": 8565,
+                        "overall": 55,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "brown",
+                                "endIndex": 677,
+                                "beginIndex": 673
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "have",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 60,
+                            "overall": 60
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "as",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 93,
+                            "overall": 93
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 681,
+                                "beginIndex": 679
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "smells",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "smells",
+                                "endIndex": 688,
+                                "beginIndex": 683
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "nice.",
+                        "readType": 0,
+                        "start": 8886,
+                        "prominence": 0,
+                        "end": 8916,
+                        "overall": 70,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "nice",
+                                "endIndex": 693,
+                                "beginIndex": 690
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 694,
+                                "beginIndex": 694
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 696,
+                "sentence": "Amber and Sam grin.",
+                "start": 0,
+                "endIndex": 713,
+                "end": 0,
+                "overall": 19,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 78,
+                            "overall": 78
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 75,
+                            "overall": 75
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 84,
+                            "overall": 84
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 700,
+                                "beginIndex": 696
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 0,
+                        "start": 9633,
+                        "prominence": 0,
+                        "end": 9654,
+                        "overall": 77,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 704,
+                                "beginIndex": 702
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 708,
+                                "beginIndex": 706
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "grin.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "grin",
+                                "endIndex": 713,
+                                "beginIndex": 710
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 714,
+                                "beginIndex": 714
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 716,
+                "sentence": "They made a cake for Mom.",
+                "start": 0,
+                "endIndex": 739,
+                "end": 10843,
+                "overall": 23,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 719,
+                                "beginIndex": 716
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "made",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "made",
+                                "endIndex": 724,
+                                "beginIndex": 721
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 0,
+                        "start": 9691,
+                        "prominence": 0,
+                        "end": 9701,
+                        "overall": 68,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 726,
+                                "beginIndex": 726
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 80,
+                            "overall": 80
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 83,
+                            "overall": 83
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 94,
+                            "overall": 94
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 94,
+                            "overall": 94
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 88,
+                            "overall": 88
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 731,
+                                "beginIndex": 728
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "for",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "for",
+                                "endIndex": 735,
+                                "beginIndex": 733
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Mom.",
+                        "readType": 0,
+                        "start": 10818,
+                        "prominence": 0,
+                        "end": 10843,
+                        "overall": 72,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Mom",
+                                "endIndex": 739,
+                                "beginIndex": 737
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 740,
+                                "beginIndex": 740
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 742,
+                "sentence": "Mom will love it.",
+                "start": 11356,
+                "endIndex": 757,
+                "end": 0,
+                "overall": 16,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 93,
+                            "overall": 93
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 96,
+                            "overall": 96
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 85,
+                            "overall": 85
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "hum",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 82,
+                            "overall": 82
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "is",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 64,
+                            "overall": 64
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 96,
+                            "overall": 96
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Mom",
+                        "readType": 0,
+                        "start": 11356,
+                        "prominence": 0,
+                        "end": 11375,
+                        "overall": 62,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Mom",
+                                "endIndex": 744,
+                                "beginIndex": 742
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 79,
+                            "overall": 79
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "burn",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 78,
+                            "overall": 78
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 75,
+                            "overall": 75
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brush.",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 74,
+                            "overall": 74
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 84,
+                            "overall": 84
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "brown",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 74,
+                            "overall": 74
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "will",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "will",
+                                "endIndex": 749,
+                                "beginIndex": 746
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "love",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "love",
+                                "endIndex": 754,
+                                "beginIndex": 751
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "it.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "it",
+                                "endIndex": 757,
+                                "beginIndex": 756
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 758,
+                                "beginIndex": 758
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 766,
+                "sentence": "\t\t\t\t\tThey gave Mom the cake.",
+                "start": 0,
+                "endIndex": 787,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "\t\t\t\t\tThey",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 1,
+                                "part": "\t\t\t\t\t",
+                                "endIndex": 765,
+                                "beginIndex": 761
+                            },
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 769,
+                                "beginIndex": 766
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "gave",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "gave",
+                                "endIndex": 774,
+                                "beginIndex": 771
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Mom",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Mom",
+                                "endIndex": 778,
+                                "beginIndex": 776
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 782,
+                                "beginIndex": 780
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 787,
+                                "beginIndex": 784
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 788,
+                                "beginIndex": 788
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 790,
+                "sentence": "Mom smiled wide and gave them a hug.",
+                "start": 0,
+                "endIndex": 824,
+                "end": 0,
+                "overall": 14,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Mom",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Mom",
+                                "endIndex": 792,
+                                "beginIndex": 790
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "smiled",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "smiled",
+                                "endIndex": 799,
+                                "beginIndex": 794
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "wide",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "wide",
+                                "endIndex": 804,
+                                "beginIndex": 801
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 0,
+                        "start": 12988,
+                        "prominence": 0,
+                        "end": 13027,
+                        "overall": 61,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 808,
+                                "beginIndex": 806
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "on",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 76,
+                            "overall": 76
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "for",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 90,
+                            "overall": 90
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "gave",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "gave",
+                                "endIndex": 813,
+                                "beginIndex": 810
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "them",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "them",
+                                "endIndex": 818,
+                                "beginIndex": 815
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "a",
+                        "readType": 0,
+                        "start": 13281,
+                        "prominence": 0,
+                        "end": 13295,
+                        "overall": 51,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "a",
+                                "endIndex": 820,
+                                "beginIndex": 820
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "pan",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 100,
+                            "overall": 100
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "burn",
+                        "readType": 4,
+                        "scores": {
+                            "prominence": 0,
+                            "pronunciation": 55,
+                            "overall": 55
+                        }
+                    },
+                    {
+                        "charType": 0,
+                        "word": "hug.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "hug",
+                                "endIndex": 824,
+                                "beginIndex": 822
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 825,
+                                "beginIndex": 825
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 827,
+                "sentence": "Amber and Sam are glad.",
+                "start": 0,
+                "endIndex": 848,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "Amber",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Amber",
+                                "endIndex": 831,
+                                "beginIndex": 827
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "and",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "and",
+                                "endIndex": 835,
+                                "beginIndex": 833
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "Sam",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "Sam",
+                                "endIndex": 839,
+                                "beginIndex": 837
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "are",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "are",
+                                "endIndex": 843,
+                                "beginIndex": 841
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "glad.",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "glad",
+                                "endIndex": 848,
+                                "beginIndex": 845
+                            },
+                            {
+                                "charType": 1,
+                                "part": ".",
+                                "endIndex": 849,
+                                "beginIndex": 849
+                            }
+                        ]
+                    }
+                ]
+            },
+            {
+                "beginIndex": 851,
+                "sentence": "They eat the cake with milk!",
+                "start": 0,
+                "endIndex": 877,
+                "end": 0,
+                "overall": 0,
+                "details": [
+                    {
+                        "charType": 0,
+                        "word": "They",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "They",
+                                "endIndex": 854,
+                                "beginIndex": 851
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "eat",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "eat",
+                                "endIndex": 858,
+                                "beginIndex": 856
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "the",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "the",
+                                "endIndex": 862,
+                                "beginIndex": 860
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "cake",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "cake",
+                                "endIndex": 867,
+                                "beginIndex": 864
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "with",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "with",
+                                "endIndex": 872,
+                                "beginIndex": 869
+                            }
+                        ]
+                    },
+                    {
+                        "charType": 0,
+                        "word": "milk!",
+                        "readType": 3,
+                        "start": 0,
+                        "prominence": 0,
+                        "end": 0,
+                        "overall": 0,
+                        "word_parts": [
+                            {
+                                "charType": 0,
+                                "part": "milk",
+                                "endIndex": 877,
+                                "beginIndex": 874
+                            },
+                            {
+                                "charType": 1,
+                                "part": "!",
+                                "endIndex": 878,
+                                "beginIndex": 878
+                            }
+                        ]
+                    }
+                ]
+            }
+        ],
+        "numeric_duration": 139.501,
+        "warning": [
+            {
+                "message": "Audio noisy!",
+                "code": 1004
+            }
+        ],
+        "kernel_version": "7.0.0",
+        "rhythm": 27,
+        "speed": 7,
+        "pronunciation": 66,
+        "overall": 7,
+        "duration": "139.501"
+    },
+    "dtLastResponse": "2024-10-29 17:46:11:299",
+    "applicationId": "17282910700003b1",
+    "recordId": "6720ae66654b26200000b655",
+    "refText": "Amber and Sam like to bake. They plan to bake a cake for Mom. First, they collect what they need for the cake. They have cake mix, nuts, sugar and butter. \n\t\t\t\t\tNext Sam put a pan on the stove. “We cannot bake on the stove,” Amber said “we need an oven to bake.” They get a pan and a brush. They brush the pan with butter. Sam chops the nuts. Amber mixes it with the cake mix and sugar. They hum a tune as they work.\n\t\t\t\t\tNow, the oven is hot. Amber and Sam want to be safe. They put on gloves and place the pan in the oven. They do not want to burn the cake. “Let’s watch the time,” says Sam. The cake will bake for a long time.\n\t\t\t\t\tAt last, the cake is done! It is big, brown and smells nice. Amber and Sam grin. They made a cake for Mom. Mom will love it. \n\t\t\t\t\tThey gave Mom the cake. Mom smiled wide and gave them a hug. Amber and Sam are glad. They eat the cake with milk!",
+    "eof": 1,
+    "params": {
+        "app": {
+            "applicationId": "17282910700003b1",
+            "sig": "84d5f06be04f507fb0fac9d691cc35bda84c6804",
+            "userId": "uid",
+            "timestamp": "1730195038370"
+        },
+        "request": {
+            "paragraph_need_word_score": 1,
+            "readtype_diagnosis": 1,
+            "tokenId": "A09D060738D241648298DC9B4087B4AD",
+            "dict_type": "KK",
+            "refText": "Amber and Sam like to bake. They plan to bake a cake for Mom. First, they collect what they need for the cake. They have cake mix, nuts, sugar and butter. \n\t\t\t\t\tNext Sam put a pan on the stove. “We cannot bake on the stove,” Amber said “we need an oven to bake.” They get a pan and a brush. They brush the pan with butter. Sam chops the nuts. Amber mixes it with the cake mix and sugar. They hum a tune as they work.\n\t\t\t\t\tNow, the oven is hot. Amber and Sam want to be safe. They put on gloves and place the pan in the oven. They do not want to burn the cake. “Let’s watch the time,” says Sam. The cake will bake for a long time.\n\t\t\t\t\tAt last, the cake is done! It is big, brown and smells nice. Amber and Sam grin. They made a cake for Mom. Mom will love it. \n\t\t\t\t\tThey gave Mom the cake. Mom smiled wide and gave them a hug. Amber and Sam are glad. They eat the cake with milk!",
+            "getparam": 1,
+            "coreType": "para.eval",
+            "accent_dialect": "indian",
+            "realtime_feedback": 1
+        },
+        "audio": {
+            "audioType": "wav",
+            "channel": 1,
+            "sampleRate": "48000",
+            "sampleBytes": 2
+        }
+    },
+    "tokenId": "A09D060738D241648298DC9B4087B4AD"
+}
